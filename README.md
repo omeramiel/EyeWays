@@ -1,3 +1,0 @@
-EyeWays
-=======
-Hello world!
